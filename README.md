@@ -6,7 +6,7 @@ Skilled in using Python, SQL, MS Excel, Tableau and PowerBI to collect, organize
 and insights that can help businesses to make data - driven decisions. 
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [https://bento.me/ektasingh](http://https://bento.me/ektasingh)
+* 🖥️  See my portfolio at [[https://bento.me/ektasingh](https://www.datascienceportfol.io/EktaSingh)
 * ✉️  You can contact me at [ekta16102000@gmail.com](mailto:ekta16102000@gmail.com)
 * 🤝  I'm open to collaborate on Data Science and Analytics projects.
 
