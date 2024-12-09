@@ -1,21 +1,23 @@
 Hi 👋 My name is Ekta Singh
 ===========================
 
-I'm a Data enthusiast engineering graduate who loves to bring out hidden things from data and is passionate about creating genuine business value.  
-Skilled in using Python, SQL, Pyspark, Apache Spark, Hadoop, Azure Cloud Services, PowerBI and MS Excel to collect, organize, and analyze large datasets to identify trends, patterns, 
-and insights that can help businesses to make data - driven decisions. 
+I'm a Data professional with 1.4 years of experience in building efficient data pipelines, automating workflows, and contributing to data-driven strategies at scale.
+I loves to uncover hidden trends and insights from data and create genuine business value. I have worked 
+
+My current skillset includes :-
+Programming Languages & Frameworks: Python (Pandas, NumPy, Matplotlib, Seaborn, Sci-kit learn), SQL, PySpark, Hadoop, Apache Spark.
+Data Engineering: Data Pipelines, Data Warehousing, Data Transformation, Data Modeling.
+Data Analytics: Data Cleaning, Data Manipulation, Data Visualization.
+BI Tools: Power BI, Tableau, MS Excel, Google Sheets.
+Databases: MySQL, PostgreSQL.
+Cloud Services: Azure Data Factory, Azure Databricks.
+Machine Learning: Linear regression, Logistics Regression.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://www.datascienceportfol.io/EktaSingh](https://www.datascienceportfol.io/EktaSingh)
 * ✉️  You can contact me at [ekta16102000@gmail.com](mailto:ekta16102000@gmail.com)
-* 🤝  I'm open to collaborate on Data Engineerting and Analytics projects.
+* 🤝  I’m eager to connect with professionals in the data engineering and analytics space to contribute to impactful, data-driven solutions.
 
-### Skills
-
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-</p>
 
 
 ### Socials
