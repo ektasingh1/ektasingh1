@@ -2,16 +2,16 @@ Hi 👋 My name is Ekta Singh
 ===========================
 
 I'm a Data professional with 1.4 years of experience in building efficient data pipelines, automating workflows, and contributing to data-driven strategies at scale.
-I loves to uncover hidden trends and insights from data and create genuine business value. I have worked 
+I loves to uncover hidden trends and insights from data and create genuine business value. I have worked in Data Analytics as well as Data engineering domains.    
 
-My current skillset includes :-
-Programming Languages & Frameworks: Python (Pandas, NumPy, Matplotlib, Seaborn, Sci-kit learn), SQL, PySpark, Hadoop, Apache Spark.
-Data Engineering: Data Pipelines, Data Warehousing, Data Transformation, Data Modeling.
-Data Analytics: Data Cleaning, Data Manipulation, Data Visualization.
-BI Tools: Power BI, Tableau, MS Excel, Google Sheets.
-Databases: MySQL, PostgreSQL.
-Cloud Services: Azure Data Factory, Azure Databricks.
-Machine Learning: Linear regression, Logistics Regression.
+My current skillset includes :-  
+Programming Languages & Frameworks: Python (Pandas, NumPy, Matplotlib, Seaborn, Sci-kit learn), SQL, PySpark, Hadoop, Apache Spark.  
+Data Engineering: Data Pipelines, Data Warehousing, Data Transformation, Data Modeling.  
+Data Analytics: Data Cleaning, Data Manipulation, Data Visualization.  
+BI Tools: Power BI, Tableau, MS Excel, Google Sheets.  
+Databases: MySQL, PostgreSQL.  
+Cloud Services: Azure Data Factory, Azure Databricks.  
+Machine Learning: Linear regression, Logistics Regression.  
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://www.datascienceportfol.io/EktaSingh](https://www.datascienceportfol.io/EktaSingh)
