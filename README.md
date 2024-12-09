@@ -2,13 +2,13 @@ Hi 👋 My name is Ekta Singh
 ===========================
 
 I'm a Data enthusiast engineering graduate who loves to bring out hidden things from data and is passionate about creating genuine business value.  
-Skilled in using Python, SQL, PowerBI and MS Excel to collect, organize, and analyze large datasets to identify trends, patterns, 
+Skilled in using Python, SQL, Pyspark, Apache Spark, Hadoop, Azure Cloud Services, PowerBI and MS Excel to collect, organize, and analyze large datasets to identify trends, patterns, 
 and insights that can help businesses to make data - driven decisions. 
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://www.datascienceportfol.io/EktaSingh](https://www.datascienceportfol.io/EktaSingh)
 * ✉️  You can contact me at [ekta16102000@gmail.com](mailto:ekta16102000@gmail.com)
-* 🤝  I'm open to collaborate on Data Science and Analytics projects.
+* 🤝  I'm open to collaborate on Data Engineerting and Analytics projects.
 
 ### Skills
 
