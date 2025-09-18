@@ -1,7 +1,7 @@
 Hi 👋 My name is Ekta Singh
 ===========================
 
-I'm a Data professional with 1.4 years of experience in building efficient data pipelines, automating workflows, and contributing to data-driven strategies at scale. I have worked in Data Analytics as well as Data engineering domains.    
+I'm a Data professional with 2+ years of experience in building efficient data pipelines, automating workflows, and contributing to data-driven strategies at scale. I have worked in Data Analytics as well as Data engineering domains.    
 
 My current skillset includes :-  
 Programming Languages & Frameworks: Python (Pandas, NumPy), SQL, PySpark, Hadoop, Apache Spark.  
