@@ -13,7 +13,7 @@ Cloud Services: Azure Data Factory, Azure Databricks.
 Machine Learning: Linear regression, Logistics Regression.  
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [ekta_singh1@outlook.com](mailto:ekta_singh1@outlook.com)
+* ✉️  You can contact me at [its.ekta001@gmail.com](mailto:its.ekta001@gmail.com)
 * 🤝  I’m eager to connect with professionals in the data engineering and analytics space to contribute to impactful, data-driven solutions.
 
 
